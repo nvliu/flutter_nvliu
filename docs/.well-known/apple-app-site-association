@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "43V9N6VW8L.com.upcwangying.apps.flutter.boilerplate",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}

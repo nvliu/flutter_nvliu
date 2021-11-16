@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.upcwangying.apps.flutter.boilerplate",
+    "sha256_cert_fingerprints": ["75:3A:DB:24:5D:4C:6E:C1:F0:8A:34:D2:30:5D:91:EF:8C:38:D1:23:4A:18:D6:E1:F4:26:DA:20:24:90:8B:E8"] }
+}]
